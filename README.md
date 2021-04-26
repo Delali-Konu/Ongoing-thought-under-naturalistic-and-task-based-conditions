@@ -7,3 +7,5 @@ CANTAB_MDES.py-This is the script for the experience sampling related to the Cam
 documentary_tv.py-This is the task script for the documetary tv-based paradigm. 
 
 PsychoPy_tasks- This is the task script for the three PsychoPy tasks (Go/No-go, Self/Other Adjective Rating and Semantic). 
+
+Contributors: * 
