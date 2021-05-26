@@ -1,5 +1,5 @@
 # Ongoing-thought-under-naturalistic-and-task-based-conditions
-This repository contains the scripts for the documentary TV-based paradigm, affective TV-based paradigm, PsychoPy tasks and the Multidimensional Experience Sampling related to the CANTAB reported in Konu, Turnbull, Ho, Karapanagiotidis, Vanderwal, McCall, Tipper, Jefferies & Smallwood (2021). Exploring patterns of ongoing thought under naturalistic and task-based conditions.
+This repository contains the scripts for the documentary TV-based paradigm, affective TV-based paradigm, PsychoPy tasks and the Multidimensional Experience Sampling related to the CANTAB reported in Konu, Mckeown, Turnbull, Ho, Karapanagiotidis, Vanderwal, McCall, Tipper, Jefferies & Smallwood (2021). Exploring patterns of ongoing thought under naturalistic and task-based conditions.
 
 affective_tv.py- This is the task script for the affective tv-based paradigm.
 
